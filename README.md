@@ -1,9 +1,9 @@
 # XCamera
 [![](https://jitpack.io/v/qingkuang852/XCamera.svg)](https://jitpack.io/#qingkuang852/XCamera)
 
-#How to use?
+# How to use?
 
-##Easiest Way
+## Easiest Way
   1. AndroidManifest.xml
   add <activity android:name="com.wenm.xcamera.XCameraActivity"/>
   
